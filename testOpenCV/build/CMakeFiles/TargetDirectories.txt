@@ -1,0 +1,3 @@
+/home/crowznl/mygit/testOpenCV/build/CMakeFiles/rebuild_cache.dir
+/home/crowznl/mygit/testOpenCV/build/CMakeFiles/edit_cache.dir
+/home/crowznl/mygit/testOpenCV/build/CMakeFiles/testopcv.dir
