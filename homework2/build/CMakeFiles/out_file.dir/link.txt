@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/out_file.dir/main.cpp.o -o out_file  vector/libvectorlib.a 

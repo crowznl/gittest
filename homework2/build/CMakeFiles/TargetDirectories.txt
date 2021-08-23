@@ -1,0 +1,6 @@
+/home/crowznl/mygit/homework2/build/CMakeFiles/rebuild_cache.dir
+/home/crowznl/mygit/homework2/build/CMakeFiles/edit_cache.dir
+/home/crowznl/mygit/homework2/build/CMakeFiles/out_file.dir
+/home/crowznl/mygit/homework2/build/vector/CMakeFiles/rebuild_cache.dir
+/home/crowznl/mygit/homework2/build/vector/CMakeFiles/edit_cache.dir
+/home/crowznl/mygit/homework2/build/vector/CMakeFiles/vectorlib.dir

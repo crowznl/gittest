@@ -1,0 +1,13 @@
+1.预编译
+    #ifdef RELEASE
+    std::cout << "\nRelease!" << std::endl;
+    #else
+    std::cout << "\nDebug!" << std::endl;
+    std::cin.get();
+    #endif
+有cin cout命令待执行，要写在函数体里
+预编译只是正式编译compile前对代码进行一些文本操作
+#include,copy&paste;#define, new替换old字符串，
+命令写在外面，之后没法执行
+
+2.仿函数&Lambda expression []()mutable ->rec{}
